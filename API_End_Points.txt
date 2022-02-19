@@ -1,0 +1,30 @@
+
+General :
+
+/ : Home
+/home : Home
+/about-us : About Us
+/sign-up : Sign up
+/sign-in : Sign in
+
+Officer Login :
+
+/officer  : Display My Evidences
+/officer/ : Display My Evidences
+/officer/my-evidences : Display My Evidences
+/officer/view-requests :  Officer View Requests
+
+Admin Login :
+
+/admin : Admin View Requests Tab
+/admin/ : Admin View Requests Tab
+/admin/view-requests : Admin View Requests Tab
+
+Cases :
+
+/cases : Display all the cases
+/cases/ : Display all the Cases
+/cases/add-case - Add cases
+/cases/add-evidence : Add Evidence - Form
+/cases/case1/evidence1 : Display Case Evidence 1 Info
+/cases/case1 : Display case1 Info
